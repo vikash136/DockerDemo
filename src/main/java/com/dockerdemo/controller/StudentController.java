@@ -10,6 +10,6 @@ public class StudentController {
 
     @GetMapping("/name")
     public String getname(){
-        return "Hi i am student";
+        return "Hi i am student and developer";
     }
 }
